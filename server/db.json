@@ -1,0 +1,106 @@
+{
+  "food-trucks": [
+    {
+      "id": 1,
+      "ownerFirstName": "William",
+      "ownerLastName": "Riega",
+      "brandName": "Healthy&Fast",
+      "email": "williammar954@hotmail.com",
+      "address": "Av.Juan Vicente Nicolini 560",
+      "websiteUrl": "-",
+      "menuUrl": "-"
+    },
+    {
+      "id": 2,
+      "ownerFirstName": "Ana Lucia",
+      "ownerLastName": "Riega",
+      "brandName": "Ludama Cupcakes",
+      "email": "alucia@hotmail.com",
+      "address": "Av. Las Palmas 543",
+      "websiteUrl": "https://www.instagram.com/ludamacupcakes/",
+      "menuUrl": "https://www.instagram.com/ludamacupcakes/"
+    },
+    {
+      "id": 3,
+      "ownerFirstName": "Lucy",
+      "ownerLastName": "Ocharan",
+      "brandName": "FoodyFoofy",
+      "email": "lucy_op@hotmail.com",
+      "address": "Av. San Lorenzo 350 Habich",
+      "websiteUrl": "-",
+      "menuUrl": "-"
+    },
+    {
+      "id": 4,
+      "ownerFirstName": "Willy",
+      "ownerLastName": "Torres",
+      "brandName": "Sanguchon",
+      "email": "willra3@hotmail.com",
+      "address": "Av. Peru 124 Lote A",
+      "websiteUrl": "https://www.fullsanguchon.pe/",
+      "menuUrl": "https://www.fullsanguchon.pe/pedir"
+    },
+    {
+      "id": 5,
+      "ownerFirstName": "Juana",
+      "ownerLastName": "Palacios",
+      "brandName": "JuanitasFritas",
+      "email": "juanaworrk@hotmail.com",
+      "address": "Av.  Santa Rosa de guadalupe 455",
+      "websiteUrl": "-",
+      "menuUrl": "-"
+    },
+    {
+      "id": 6,
+      "ownerFirstName": "Pedro",
+      "ownerLastName": "Perez",
+      "brandName": "ElMarino",
+      "email": "elmarino@hotmail.com",
+      "address": "Av. Peru 124 Lote A",
+      "websiteUrl": "-",
+      "menuUrl": "-"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "foodTruckId": 3,
+      "likes": 45,
+      "views": 60,
+      "title": "TITULO 1",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "foodTruckId": 4,
+      "likes": 49,
+      "views": 63,
+      "title": "TITULO 2",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "foodTruckId": 6,
+      "likes": 19,
+      "views": 22,
+      "title": "TITULO 3",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 4,
+      "foodTruckId": 6,
+      "likes": 9,
+      "views": 12,
+      "title": "TITULO 4",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 5,
+      "foodTruckId": 1,
+      "likes": 42,
+      "views": 79,
+      "title": "TITULO 5",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ]
+}
